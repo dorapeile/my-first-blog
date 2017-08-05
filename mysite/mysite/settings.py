@@ -25,7 +25,7 @@ SECRET_KEY = '%x+sf09536#ipsc6p*f00%j^fk$0!(+e#)560s@wb&g&8tzxx%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dorapeile.pythonanywhere.com']
 
 
 # Application definition
